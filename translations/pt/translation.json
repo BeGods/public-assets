@@ -1,0 +1,516 @@
+{
+  "main": {
+    "fdg": "FrogdogGames",
+    "fof": "Forges of faith"
+  },
+  "descriptions": {
+    "celtic": "Celtic mythology unfolds a fantastical tapestry of magic and mystery, where shimmering Otherworlds exist alongside our own. Enchanted forests teem with mystical creatures, and heroes embark on epic quests filled with battles, prophecies, and transformation. Nature breathes life into every tale, as rivers flow with ancient wisdom and mountains guard timeless secrets. Rich symbolism weaves through enchanting narratives, celebrating the profound connection between humanity and the ethereal realm.",
+    "egyptian": "Egyptian mythology is a mesmerizing realm where gods and goddesses weave the fabric of existence, each embodying powerful forces of nature and cosmic balance. Epic tales of creation, divine battles, and the afterlife unfold in vivid landscapes, from the sun's radiant journey across the sky to the enchanting depths of the underworld. Mystical rituals and grand temples serve as gateways to the divine, guiding souls through the celestial realms in a quest for immortality and enlightenment.",
+    "greek": "Greek mythology is a thrilling saga of epic quests and heart-wrenching struggles, where heroes rise and fall against overwhelming odds. It brims with dramatic confrontations, treacherous betrayals, and passionate romances, each tale echoing the tumult of human emotion. Mortal souls clash with fate, battling monstrous foes and navigating labyrinthine challenges, as the fabric of destiny intertwines with the divine. This grand narrative captures the essence of triumph, loss, and the relentless pursuit of glory.",
+    "norse": "Norse mythology unveils a fantastical realm of swirling realms and legendary beasts, where valiant heroes embark on daring quests against looming shadows. Epic sagas brim with magical artifacts and cosmic trees that bridge worlds, while fierce battles echo through the ages. Enigmatic creatures roam the landscapes, and the air crackles with ancient magic. Themes of bravery, sacrifice, and the inexorable dance of fate intertwine, creating a vivid tapestry of wonder and peril that captivates the imagination."
+  },
+  "mythologies": {
+    "celtic": "Céltico",
+    "egyptian": "Egípcio",
+    "greek": "Grego",
+    "norse": "Nórdico",
+    "dark": "Obscura"
+  },
+  "keywords": {
+    "orb": "Orbe",
+    "orbs": "ORB(S)",
+    "conversion": "Conversão",
+    "discover": "Descobrir",
+    "whitelist": "Whitelist",
+    "load": "Carregando"
+  },
+  "buttons": {
+    "buy": "Comprar",
+    "hire": "Vencer",
+    "redeem": "Redimir",
+    "pay": "Pagar",
+    "share": "Compartilhar",
+    "shared": "Compartilhado"
+  },
+  "sections": {
+    "forges": "Forjas",
+    "boosters": "Potenciadores",
+    "quests": "Missões",
+    "leaderboard": "Classificação",
+    "tower": "Torre",
+    "brand": "Marca",
+    "profile": "Perfil",
+    "gifts": "Presentes",
+    "voucher": "Vales"
+  },
+  "boosters": [
+    { "title": "Autômata", "desc": "Toque automático" },
+    { "title": "Missões", "desc": "Energia 200%" },
+    { "title": "Alquimista", "desc": "Toque duplo" },
+    {},
+    {},
+    {},
+    { "title": "Explosão", "desc": "Pressão de Apertar" },
+    { "title": "Pacote de Autômatos", "desc": "Autômatos 4X" }
+  ],
+  "profile": {
+    "premium": "Premium",
+    "invite": "Convidar",
+    "squad": "Equipe",
+    "player": "Jogador",
+    "name": "Nome",
+    "apply": "Aplicar",
+    "referrals": "Referências",
+    "team": "Equipe",
+    "guide": "GUIA",
+    "causes": "Causas",
+    "partners": "Parceiros",
+    "partner": "Parceiros",
+    "charity": "Caridad",
+    "rewards": "RECOMPENSAS",
+    "task": "Tarefas",
+    "connect": "Conectar",
+    "follow": "Seguir",
+    "select": "Selecionar",
+    "music": "Música",
+    "wallet": "Carteira"
+  },
+  "elements": {
+    "earth": "Terra",
+    "air": "Ar",
+    "water": "Água",
+    "fire": "Fogo",
+    "aether": "Éter"
+  },
+  "misc": {
+    "name": "Nome",
+    "enterOTP": "Inserir OTP",
+    "phone": "Número de telefone",
+    "day": "Dia",
+    "verify": "Verificar",
+    "resendOTP": "Reenviar OTP",
+    "getOTP": "Obter OTP",
+    "terms": "Aceitar Termos e Condições",
+    "policy": "Política de Privacidade",
+    "haptic": "Hápticos"
+  },
+  "note": {
+    "text": "Atualização da classificação em",
+    "tower": "Toque nas ORBS para converter",
+    "bonus": "Para ver promoções ativas"
+  },
+  "tower": {
+    "tune": "Você conhece a ♪ melodia ♪?",
+    "play": "Toque na ordem certa!"
+  },
+  "bonus": {
+    "join": "BÔNUS BOAS-VINDAS",
+    "box": "CAIXA",
+    "youwon": "VOCÊ VENCEU!",
+    "win": "Ganhar"
+  },
+  "tutorial": {
+    "forgeShard": { "title": "Toque para ganhar fragmentos", "desc": "" },
+    "forgeOrbs": { "title": "1 Orb = 1,000 Fragmentos", "desc": "" },
+    "forgeBubble": {
+      "title": "Estourar bolha para ganhar Presentes",
+      "desc": ""
+    },
+    "forgeMinion": { "title": "Capturar e manter 2x fragmentos", "desc": "" },
+    "forgeExplore": { "title": "Explorar +mais", "desc": "" },
+    "quests": { "title": "Completar Missões", "desc": "Ganhe $faith" },
+    "boosters": {
+      "title": "ADQUIRIR BOOSTERS",
+      "desc": "Ganhar $fé"
+    },
+    "profileTask": {
+      "title": "Completar Tarefas",
+      "desc": "Para recompensas no jogo"
+    },
+    "gift": { "title": "Ver Parceiros", "desc": "" },
+    "tower": { "title": "Converter Orbes", "desc": "" }
+  },
+  "quests": {
+    "celtic": {
+      "A01": {
+        "QuestName": "Fuga de Heptu",
+        "desc": "'Heptu se Despedindo da Cidade de Obb', ca 1909, é uma pintura de John Duncan, um pintor simbolista escocês. Visite o original em Whitehouse Terrace, Edimburgo - Escócia."
+      },
+      "A02": {
+        "QuestName": "Traição de Viriato",
+        "desc": "'A Morte de Viriato, Chefe dos Lusitanos', ca 1807, é uma pintura de José de Madrazo y Agudo, um pintor neoclássico espanhol. Visite o original no Museo del Prado, Madrid - Espanha."
+      },
+      "A03": {
+        "QuestName": "Tristão e Isolda",
+        "desc": "'Tristão e Isolda', ca 1912, é uma pintura de John Duncan, um pintor simbolista escocês. Visite o original em Whitehouse Terrace, Edimburgo - Escócia."
+      },
+      "A04": {
+        "QuestName": "A Triste Princesa",
+        "desc": "'Isolda: A Princesa Celta', ca 1912, é uma pintura de Gaston Gaston Bussiere, um pintor simbolista francês. Visite o original no Musée des Ursulines, Mâcon - França."
+      },
+      "A05": {
+        "QuestName": "Imbolc de Brigid",
+        "desc": "'A Santa Noiva', ca 1913, é uma pintura de John Duncan, um pintor simbolista escocês. Visite o original na National Gallery, Edimburgo - Escócia."
+      },
+      "A06": {
+        "QuestName": "Fantasia de Verão",
+        "desc": "'Fantasia ao Crepúsculo', ca 1911, é uma pintura de Edward Robert Hughes, um pintor simbolista britânico. Visite o original na Artchiv Gallery, Praga - República Tcheca."
+      },
+      "B01": {
+        "QuestName": "Clã Lir",
+        "desc": "'Filhos de Lir', ca 1924, é uma pintura de John Duncan, um pintor simbolista escocês. Visite o original nas Dundee Art Galleries, Edimburgo - Escócia."
+      },
+      "B02": {
+        "QuestName": "Amante de Aengus",
+        "desc": "'O Cisne Ameaçado', ca 1650, é uma pintura de Jan Asselijn, um pintor da Idade de Ouro holandesa. Visite o original no Rijksmuseum Amsterdam, Amsterdã - Países Baixos."
+      },
+      "B03": {
+        "QuestName": "A Bela Adormecida",
+        "desc": "'A Princesa Adormecida', ca 1924, é uma pintura de John Duncan, um pintor simbolista escocês. Visite o original na Perth Art Gallery, Perth - Escócia."
+      },
+      "B04": {
+        "QuestName": "Leanan Sidhe",
+        "desc": "'La Belle Dame sans Merci', ca 1913, é uma pintura de Frank Bernard Dicksee, um pintor vitoriano britânico. Visite o original no Bristol City Museum, Bristol - Inglaterra."
+      },
+      "B05": {
+        "QuestName": "Cavaleiros Sidhe",
+        "desc": "'Cavaleiros do Sidhe', ca 1911, é uma pintura de John Duncan, um pintor simbolista escocês. Visite o original nas Dundee Art Galleries, Edimburgo - Escócia."
+      },
+      "B06": {
+        "QuestName": "Vercingetórix",
+        "desc": "'Vercingetórix diante de César', ca 1899, é uma pintura de Lionel Royer, um pintor histórico francês. Visite o original no Musée Crozatier, Auvergne - França."
+      },
+      "C07": {
+        "QuestName": "Tuatha Dé Danann",
+        "desc": "'A Disputa de Oberon e Titania', ca 1849, é uma pintura de Joseph Noel Paton, um pintor histórico escocês. Visite o original na National Gallery, Edimburgo - Escócia."
+      },
+      "whitelist": {
+        "QuestName": "Whitelist",
+        "desc": "An NFT whitelist is a selected collection of crypto wallet addresses with early access to BeGODS ecosystem. This NFT allows the owner to buy 30USD of our BGODS Token, after it is listed."
+      }
+    },
+
+    "egyptian": {
+      "A01": {
+        "QuestName": "Sussurrador de Pássaros",
+        "desc": "'O Vendedor de Pombas Egípcias', ca 1864, é uma pintura de Eugène Pierre François Giraud, um pintor francês. Visite o original no Museo de Bellas Artes, Valência - Espanha."
+      },
+      "A02": {
+        "QuestName": "Encanto de Hator",
+        "desc": "'O Harpista', ca 1890, é uma pintura de Arthur Drummond, um pintor britânico. Visite o original na Sotheby's, Londres - Inglaterra."
+      },
+      "A03": {
+        "QuestName": "Milagre do Nilo",
+        "desc": "'A Descoberta de Moisés', ca 1904, é uma pintura de Lawrence Alma-Tadema, um pintor vitoriano holandês. Visite o original na Sotheby's, Londres - Inglaterra."
+      },
+      "A04": {
+        "QuestName": "Procissão de Ísis",
+        "desc": "'A Fuga para o Egito', ca 1883, é uma pintura de Edwin Longsden Long, um pintor bíblico britânico. Visite o original no Russell-Cotes Museum, Bournemouth - Inglaterra."
+      },
+      "A05": {
+        "QuestName": "Perfume de Shezmus",
+        "desc": "'Cleópatra testando venenos em prisioneiros condenados', ca 1887, é uma pintura de Alexandre Cabanel, um pintor clássico francês. Visite o original no Royal Museum, Antuérpia - Bélgica."
+      },
+      "A06": {
+        "QuestName": "Tumba de Cleópatra",
+        "desc": "'A Morte de Cleópatra', ca 1890, é uma pintura de John Collier, um pintor pré-rafaelita britânico. Visite o original na Art Gallery, Oldham - Inglaterra."
+      },
+      "B01": {
+        "QuestName": "Sangue de Sekhmet I",
+        "desc": "'Israel no Egito', ca 1867, é uma pintura de Edward Poynter, um pintor histórico britânico. Visite o original na Guildhall Art Gallery, Londres - Inglaterra."
+      },
+      "B02": {
+        "QuestName": "Culto de Bastet",
+        "desc": "'Os Deuses e Seus Criadores', ca 1878, é uma pintura do pintor bíblico inglês Edwin Long. Visite o original na Towneley Hall Art Gallery, Burnley - Inglaterra."
+      },
+      "B03": {
+        "QuestName": "Sangue de Sekhmet II",
+        "desc": "'Israel no Egito', ca 1867, é uma pintura de Edward Poynter, um pintor histórico britânico. Visite o original na Guildhall Art Gallery, Londres - Inglaterra."
+      },
+      "B04": {
+        "QuestName": "Culto de Maahes",
+        "desc": "'Os Obsequiosos de um Gato Egípcio', ca 1886, é uma pintura de John Weguelin, um pintor clássico britânico. Visite o original na Auckland Art Gallery, Auckland - Nova Zelândia."
+      },
+      "B05": {
+        "QuestName": "Sonho do Faraó",
+        "desc": "'José Interpretando o Sonho do Faraó', ca 1894, é uma pintura de Reginald Arthur, um pintor histórico britânico. Visite o original na Sotheby's, Londres - Inglaterra."
+      },
+      "B06": {
+        "QuestName": "Ameaça Estrangeira",
+        "desc": "'O Encontro de Antônio e Cleópatra', ca 1885, é uma pintura de Lawrence Alma-Tadema, um pintor vitoriano holandês. Visite o original na Sotheby's, Londres - Inglaterra."
+      },
+      "C08": {
+        "QuestName": "Culto do Touro Apis",
+        "desc": "'A Procissão do Touro Apis', ca 1879, é uma pintura de Frederick Arthur Bridgman, um pintor orientalista americano. Visite o original em uma Coleção Privada, EUA."
+      },
+      "whitelist": {
+        "QuestName": "Whitelist",
+        "desc": "An NFT whitelist is a selected collection of crypto wallet addresses with early access to BeGODS ecosystem. This NFT allows the owner to buy 30USD of our BGODS Token, after it is listed."
+      }
+    },
+
+    "greek": {
+      "A01": {
+        "QuestName": "Narciso e Eco",
+        "desc": "'Eco e Narciso', ca 1903, é uma pintura de John William Waterhouse, um pintor clássico britânico. Visite o original na Walker Art Gallery, Liverpool - Inglaterra."
+      },
+      "A02": {
+        "QuestName": "Ninfas da Água",
+        "desc": "'Hylas e as Ninfas da Água', ca 1909, é uma pintura de Henrietta Rae, uma pintora clássica britânica. Visite o original na Walker Art Gallery, Liverpool - Inglaterra."
+      },
+      "A03": {
+        "QuestName": "Fúria de Aquiles",
+        "desc": "'Fúria de Aquiles', ca 1737, é uma pintura de Charles-Antoine Coypel, um pintor clássico francês. Visite o original na Walker Art Gallery, São Petersburgo - Rússia."
+      },
+      "A04": {
+        "QuestName": "Queda de Fáeton",
+        "desc": "'A Queda de Fáeton', ca 1737, é uma pintura de Peter Paul Rubens, um pintor barroco flamengo. Visite o original na National Gallery of Art, Washington D.C. - Estados Unidos."
+      },
+      "A05": {
+        "QuestName": "Ícaro e Dédalo",
+        "desc": "'O Sol ou a Queda de Ícaro', ca 1819, é uma pintura de Merry Joseph Blondel, um pintor neoclássico francês. Visite o original no Museu do Louvre, Paris - França."
+      },
+      "A06": {
+        "QuestName": "Presente de Prometeu",
+        "desc": "'Prometeu', ca 1620, é uma pintura de Theodoor Rombouts, um pintor caravaggesco flamengo. Visite o original nos Museus Reais de Belas Artes, Antuérpia - Bélgica."
+      },
+      "B01": {
+        "QuestName": "Oráculo de Delfos",
+        "desc": "'Pítia: Oráculo e Alta Sacerdotisa de Delfos', ca 1880, é uma pintura de Camillo Miola, um pintor histórico italiano. Visite o original no J. Paul Getty Center, Los Angeles - EUA."
+      },
+      "B02": {
+        "QuestName": "Destino de Hefesto",
+        "desc": "'O Último Dia de Pompéia', ca 1833, é uma pintura de Karl Pavlovich Bryullov, um pintor neoclássico russo. Visite o original no Museu Russo do Estado, São Petersburgo - Rússia."
+      },
+      "B03": {
+        "QuestName": "Velo de Ouro",
+        "desc": "'O Velo de Ouro', ca 1904, é uma pintura de Herbert James Draper, um pintor neoclássico britânico. Visite o original no Cartwright Hall, Bradford - Inglaterra."
+      },
+      "B04": {
+        "QuestName": "Sereias de Odisseu",
+        "desc": "'Ulisses e as Sereias', ca 1909, é uma pintura de Herbert James Draper, um pintor neoclássico britânico. Visite o original na Ferens Art Gallery, Hull - Inglaterra."
+      },
+      "B05": {
+        "QuestName": "Ascensão do Império",
+        "desc": "'A Consumação do Curso do Império', ca 1836, é uma pintura de Cole Thomas, um pintor paisagista americano. Visite o original na Historical Society, Nova York - EUA."
+      },
+      "B06": {
+        "QuestName": "Queda do Império",
+        "desc": "'A Destruição do Curso do Império', ca 1836, é uma pintura de Cole Thomas, um pintor paisagista americano. Visite o original na Historical Society, Nova York - EUA."
+      },
+      "C06": {
+        "QuestName": "Titanomaquia",
+        "desc": "'Órion: A Queda dos Gigantes', ca 1764, é uma pintura de Francisco Bayeu y Subías, um pintor neoclássico espanhol. Visite o original no Museo del Prado, Madrid - Espanha."
+      },
+      "whitelist": {
+        "QuestName": "Whitelist",
+        "desc": "An NFT whitelist is a selected collection of crypto wallet addresses with early access to BeGODS ecosystem. This NFT allows the owner to buy 30USD of our BGODS Token, after it is listed."
+      }
+    },
+
+    "norse": {
+      "A01": {
+        "QuestName": "Um Novo Amanhecer",
+        "desc": "'Dagr (Dia)', ca 1874, é uma pintura de Peter Nicolai Arbo, um pintor histórico norueguês. Visite o original no National Museum, Estocolmo - Suécia."
+      },
+      "A02": {
+        "QuestName": "Crepúsculo",
+        "desc": "'Nott (Noite)', ca 1887, é uma pintura de Peter Nicolai Arbo, um pintor histórico norueguês. Visite o original no National Museum, Estocolmo - Suécia."
+      },
+      "A03": {
+        "QuestName": "Uma Prisão de Valquírias",
+        "desc": "'A Vigília da Valquíria', ca 1915, é uma pintura de Edward Robert Hughes, um pintor britânico de aquarelas. Visite o original no Museum and Art Gallery, Birmingham - Inglaterra."
+      },
+      "A04": {
+        "QuestName": "Toque das Valquírias",
+        "desc": "'A Morte de Hervor', ca 1892, é uma pintura de Peter Nicolai Arbo, um pintor histórico norueguês. Visite o original no National Museum, Estocolmo - Suécia."
+      },
+      "A05": {
+        "QuestName": "Vinland (América)",
+        "desc": "'Leif Erikson Descobrindo a América', ca 1893, é uma pintura de Christian Krohg, um pintor naturalista norueguês. Visite o original no National Museum, Oslo - Noruega."
+      },
+      "A06": {
+        "QuestName": "Descoberta da Islândia",
+        "desc": "'O Homem Nórdico Aterrissa na Islândia', ca 1877, é uma pintura de Oscar Arnold Wergeland, um pintor histórico norueguês. Visite o original no National Museum, Oslo - Noruega."
+      },
+      "B01": {
+        "QuestName": "Um Saque de Vikings",
+        "desc": "'Um Saque Viking', ca 1901, é uma pintura de Ferdinand Leek, um pintor modernista alemão. Visite o original na Schloss Art Gallery, Ahlden - Alemanha."
+      },
+      "B02": {
+        "QuestName": "Funeral Viking",
+        "desc": "'O Funeral de um Viking', ca 1893, é uma pintura de Frank Bernard Dicksee, um pintor vitoriano britânico. Visite o original na Art Gallery, Manchester - Inglaterra."
+      },
+      "B03": {
+        "QuestName": "O Sinal do Rei",
+        "desc": "'Hákon o Bom', ca 1876, é uma pintura de Peter Nicolai Arbo, um pintor histórico norueguês. Visite o original no National Museum, Estocolmo - Suécia."
+      },
+      "B04": {
+        "QuestName": "Batalha de Svold I",
+        "desc": "'Batalha de Svolder', ca 1883, é uma pintura de Peter Otto Sinding, um pintor histórico norueguês. Visite o original em uma Coleção Privada, Estocolmo - Suécia."
+      },
+      "B05": {
+        "QuestName": "Vikings vs Celtas",
+        "desc": "'Batalha da Ponte de Stamford', ca 1870, é uma pintura de Peter Nicolai Arbo, um pintor histórico norueguês. Visite o original no Nordnorsk Kunstmuseum, Tromsø - Noruega."
+      },
+      "B06": {
+        "QuestName": "Batalha de Svold II",
+        "desc": "'Batalha de Svolder', ca 1883, é uma pintura do pintor histórico norueguês Peter Otto Sinding. Visite o original em uma Coleção Privada, Estocolmo - Suécia."
+      },
+      "C07": {
+        "QuestName": "Asgardsreien",
+        "desc": "'A Caça Selvagem', ca 1856, é uma pintura de Johann Wilhelm Cordes, um pintor paisagista alemão. Visite o original na Behnhaus, Lübeck - Alemanha."
+      },
+      "whitelist": {
+        "QuestName": "Whitelist",
+        "desc": "An NFT whitelist is a selected collection of crypto wallet addresses with early access to BeGODS ecosystem. This NFT allows the owner to buy 30USD of our BGODS Token, after it is listed."
+      }
+    }
+  },
+  "toasts": {
+    "default": {
+      "error": {
+        "title": "Não foi possível conectar ao servidor",
+        "desc": "Algo deu errado. Por favor, atualize ou tente novamente em alguns momentos."
+      }
+    },
+    "Convert": {
+      "success": {
+        "title": "Orbes convertidos com sucesso!",
+        "desc": "Muito bem! Continue com o ímpeto!"
+      },
+      "error": {
+        "title": "Orbes insuficientes",
+        "desc": "Você precisa de mais orbes para completar esta transação."
+      }
+    },
+    "Booster_Claim": {
+      "success": {
+        "title": "Potencializador Conquistado!",
+        "desc": "Você agora está equipado para vitórias épicas! Vá e conquiste!"
+      },
+      "error": {
+        "title": "Falha ao Reivindicar o Potencializador!",
+        "desc": "Ops! Algo deu errado ao reivindicar seu potencializador. Por favor, tente novamente!"
+      }
+    },
+    "Conversion_Multiplier": {
+      "success": {
+        "title": "Melodia Correspondente!",
+        "desc": "Você conseguiu! A chave está correta e o multiplicador foi aplicado!"
+      },
+      "error": {
+        "title": "Desajuste de Melodia!",
+        "desc": "A chave que você inseriu está incorreta. Infelizmente, nenhum multiplicador foi aplicado"
+      }
+    },
+    "Tasks": {
+      "success": {
+        "title": "Tarefa Concluída com Sucesso!",
+        "desc": "Muito bem! Você ganhou 3 MultiOrbs."
+      },
+      "error": {
+        "title": "Tarefa Incompleta!",
+        "desc": "A tarefa não pôde ser concluída. Por favor, tente novamente para ganhar suas recompensas."
+      }
+    },
+    "Quest_complete": {
+      "success": {
+        "title": "Parabéns! Missão concluída!",
+        "desc": "Parabéns! Você completou a missão."
+      },
+      "error": {
+        "title": "Falha na conclusão da missão",
+        "desc": "Houve um problema ao completar a missão. Por favor, certifique-se de que a missão foi totalmente concluída e tente novamente mais tarde."
+      }
+    },
+    "Quest_claim": {
+      "success": {
+        "title": "Missão reivindicada com sucesso!",
+        "desc": "Você reivindicou a missão com sucesso. Continue para desbloquear mais recompensas!"
+      },
+      "error": {
+        "title": "Orbes insuficientes para reivindicação da missão",
+        "desc": "Você não tem orbes suficientes para reivindicar esta missão. Por favor, colete mais e tente novamente."
+      }
+    },
+    "Quest_claim_InsufficientOrbs": {
+      "error": {
+        "title": "Orbes insuficientes para reivindicação da missão",
+        "desc": "Você não tem orbes suficientes para reivindicar esta missão. Por favor, colete mais e tente novamente."
+      }
+    },
+    "Quest_claim_AlreadyClaimed": {
+      "error": {
+        "title": "Missão já reivindicada",
+        "desc": "Você já reivindicou esta missão. Verifique suas missões ativas para mais detalhes."
+      }
+    },
+    "Quest_orb_claim": {
+      "success": {
+        "title": "Orbes reivindicados com sucesso!",
+        "desc": "Você reivindicou seus orbes com sucesso. Aproveite suas recompensas e continue progredindo!"
+      },
+      "error": {
+        "title": "Falha na reivindicação de orbes",
+        "desc": "Houve um problema ao reivindicar seus orbes. Tente novamente mais tarde."
+      }
+    },
+    "Quest_share": {
+      "success": {
+        "title": "Missão compartilhada com sucesso!",
+        "desc": "Parabéns! Você compartilhou sua missão com sucesso e ganhou um orb extra."
+      },
+      "error": {
+        "title": "Falha ao compartilhar a missão",
+        "desc": "Houve um problema ao compartilhar sua missão. Tente novamente mais tarde."
+      }
+    },
+    "ReferralCopy": {
+      "success": {
+        "title": "Link de referência copiado!",
+        "desc": "Compartilhe com seus amigos para ganhar 3 ORBs multicolor!"
+      }
+    },
+    "TonConnect": {
+      "success": {
+        "title": "Carteira conectada com sucesso!",
+        "desc": "Sua carteira TON foi conectada."
+      },
+      "error": {
+        "title": "Falha na conexão da carteira",
+        "desc": "Houve um problema ao conectar-se à sua carteira TON. Tente novamente mais tarde."
+      }
+    },
+    "InputValidate": {
+      "success": {
+        "title": "OTP Enviado!",
+        "desc": "OTP enviado com sucesso."
+      },
+      "error": {
+        "title": "Entrada inválida!",
+        "desc": "Por favor, preencha corretamente todos os campos obrigatórios."
+      }
+    },
+    "OnboardSuccess": {
+      "success": {
+        "title": "OTP Verificado!",
+        "desc": "Obrigado por se conectar com o FrogDog Games!"
+      },
+      "error": {
+        "title": "OTP inválido!",
+        "desc": "Por favor, insira o OTP correto."
+      }
+    },
+    "Voucher": {
+      "success": {
+        "title": "Parabéns! Presente desbloqueado",
+        "desc": "Seu voucher foi resgatado com sucesso."
+    },
+      "error": {
+        "title": "Operação Falhada: Peças Incompletas",
+        "desc": "Complete as 12 peças para desbloquear seu voucher."
+    }    
+    }
+  }
+}

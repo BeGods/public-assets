@@ -1,0 +1,546 @@
+{
+  "main": {
+    "fdg": "FrogdogGames",
+    "fof": "Forges of faith"
+  },
+  "mythologies": {
+    "celtic": "Keltiko",
+    "egyptian": "Ehipsiyo",
+    "greek": "Griyego",
+    "norse": "Nórdikó",
+    "dark": "Madilim"
+  },
+  "keywords": {
+    "orb": "Limunmon",
+    "orbs": "Bato",
+    "conversion": "Pagko-convert",
+    "discover": "Tuklasin",
+    "whitelist": "Whitelist",
+    "load": "Naglo-load..."
+  },
+  "buttons": {
+    "hire": "Kumuhá",
+    "redeem": "Tubusin",
+    "buy": "Bumili",
+    "pay": "Magbayad",
+    "share": "I-share",
+    "shared": "Na-share"
+  },
+  "sections": {
+    "forges": "Pandayan",
+    "boosters": "Mga Tagapagpaangat",
+    "quests": "Misyon",
+    "leaderboard": "Tablá",
+    "tower": "Tore",
+    "brand": "Tatak",
+    "profile": "Profile",
+    "gifts": "Mga Regalo",
+    "voucher": "Mga Kupon"
+  },
+  "boosters": [
+    { "title": "Automata", "desc": "Auto tap" },
+    { "title": "Misyon", "desc": "Enerhiya 200%" },
+    { "title": "Alkimiko", "desc": "Double tap" },
+    {},
+    {},
+    {},
+    { "title": "Pagbabalik", "desc": "Puwersa ng Pagsisikip" },
+    { "title": "Pakete ng mga Awtomata", "desc": "4X Awtomata" }
+  ],
+  "profile": {
+    "premium": "Premium",
+    "invite": "Imbitahan",
+    "squad": "Koponan",
+    "player": "Manlalaro",
+    "name": "angalan",
+    "apply": "Ilapat",
+    "referrals": "Reperensiya",
+    "team": "Koponan",
+    "guide": "GABAY",
+    "causes": "Mga dahilan",
+    "partners": "Mga kasosyo",
+    "partner": "Mga kasosyo",
+    "charity": "Kawanggawa",
+    "rewards": "MGA GANTIMPALA",
+    "task": "Mga Gawain",
+    "follow": "Sumunod",
+    "connect": "Kumonekta",
+    "select": "Piliin",
+    "music": "Musika",
+    "wallet": "Pitaka"
+  },
+  "elements": {
+    "earth": "Lupa",
+    "air": "Hangin",
+    "fire": "Tubig",
+    "water": "Apoy",
+    "aether": "Ether"
+  },
+  "misc": {
+    "name": "Pangalan",
+    "enterOTP": "Ipasok ang OTP",
+    "phone": "Numero ng Telepono",
+    "day": "Araw",
+    "verify": "I-verify",
+    "resendOTP": "Ipadala muli ang OTP",
+    "getOTP": "Kunin ang OTP",
+    "terms": "Tanggapin ang Mga Termino at Kundisyon",
+    "policy": "Patakaran sa Pagkapribado",
+    "haptic": "Hapti"
+  },
+  "note": {
+    "text": "Pag-update ng leaderboard sa",
+    "tower": "Tap ang ORBS para i-convert",
+    "bonus": "Upang makita ang mga aktibong promosyon"
+  },
+  "tower": {
+    "tune": "Alam mo ba ang ♪ himig ♪?",
+    "play": "Tugtugin ito sa tamang pagkakasunod-sunod!"
+  },
+  "bonus": {
+    "join": "SUMALI BONUS",
+    "box": "KAHON",
+    "youwon": "NANALO KA!",
+    "win": "Manalo"
+  },
+  "tutorial": {
+    "forgeShard": { "title": "Tapikin upang kumita ng mga shard", "desc": "" },
+    "forgeOrbs": { "title": "1 Orb = 1,000 Piraso", "desc": "" },
+    "forgeBubble": {
+      "title": "Pumutok ng bula upang kumita ng mga Regalo",
+      "desc": ""
+    },
+    "forgeMinion": { "title": "Hulihin at hawakan ang 2x shard", "desc": "" },
+    "forgeExplore": { "title": "Mag-explore +dagdag", "desc": "" },
+    "quests": {
+      "title": "Kumpletuhin ang mga Misyon",
+      "desc": "Kumita ng $faith"
+    },
+    "boosters": {
+      "title": "KUMUHA NG BOOSTERS",
+      "desc": "Kumita ng $faith"
+    },
+    "profileTask": {
+      "title": "Kumpletuhin ang mga Gawain",
+      "desc": "Para sa mga gantimpala sa laro"
+    },
+    "gift": { "title": "Tingnan ang mga Kasosyo", "desc": "" },
+    "tower": { "title": "I-convert ang Orbs", "desc": "" }
+  },
+  "quests": {
+    "celtic": {
+      "A01": {
+        "QuestName": "Paglikas ni Heptu",
+        "desc": "'Paghahatid Pamamaalam ni Heptu sa Lungsod ng Obb', ca 1909, ay isang pinta ni John Duncan, isang Scottish symbolist na pintor. Bisitahin ang orihinal sa Whitehouse Terrace, Edinburgh - Scotland."
+      },
+      "A02": {
+        "QuestName": "Pagkakanulo ni Viriato",
+        "desc": "'Ang Kamatayan ni Viriatus, Punong-lungsod ng Lusitanians', ca 1807, ay isang pinta ni Jose de Madrazo y Agudo, isang Spanish neoclassical na pintor. Bisitahin ang orihinal sa Museo del Prado, Madrid - Spain."
+      },
+      "A03": {
+        "QuestName": "Tristan at Iseult",
+        "desc": "'Tristan at Isolde', ca 1912, ay isang pinta ni John Duncan, isang Scottish symbolist na pintor. Bisitahin ang orihinal sa Whitehouse Terrace, Edinburgh - Scotland."
+      },
+      "A04": {
+        "QuestName": "Ang Malungkot na Prinsesa",
+        "desc": "'Isolde: Ang Prinsesa ng Celt', ca 1912, ay isang pinta ni Gaston Gaston Bussiere, isang French symbolist na pintor. Bisitahin ang orihinal sa Musee des Ursulines, Macon - France."
+      },
+      "A05": {
+        "QuestName": "Imbolc ni Brigid",
+        "desc": "'Ang Santa Bride', ca 1913, ay isang pinta ni John Duncan, isang Scottish symbolist na pintor. Bisitahin ang orihinal sa National Gallery, Edinburgh - Scotland."
+      },
+      "A06": {
+        "QuestName": "Pantasyang Tag-init",
+        "desc": "'Pantasiya sa Twilight', ca 1911, ay isang pinta ni Edward Robert Hughes, isang British symbolist na pintor. Bisitahin ang orihinal sa Artchiv Gallery, Prague - Czech Republic."
+      },
+      "B01": {
+        "QuestName": "Clann ni Lir",
+        "desc": "'Mga Anak ni Lir', ca 1924, ay isang pinta ni John Duncan, isang Scottish symbolist na pintor. Bisitahin ang orihinal sa Dundee Art Galleries, Edinburgh - Scotland."
+      },
+      "B02": {
+        "QuestName": "Kasintahan ni Aengus",
+        "desc": "'Ang Banta ng Swan', ca 1650, ay isang pinta ni Jan Asselijn, isang Dutch golden age na pintor. Bisitahin ang orihinal sa Rijksmuseum Amsterdam, Amsterdam - Netherlands."
+      },
+      "B03": {
+        "QuestName": "Natutulog na Kagandahan",
+        "desc": "'Ang Natutulog na Prinsesa', ca 1924, ay isang pinta ni John Duncan, isang Scottish symbolist na pintor. Bisitahin ang orihinal sa Perth Art Gallery, Perth - Scotland."
+      },
+      "B04": {
+        "QuestName": "Leanan Sidhe",
+        "desc": "'La Belle Dame sans Merci', ca 1913, ay isang pinta ni Frank Bernard Dicksee, isang British Victorian na pintor. Bisitahin ang orihinal sa Bristol City Museum, Bristol - England."
+      },
+      "B05": {
+        "QuestName": "Mga Rider ng Sidhe",
+        "desc": "'Mga Rider ng Sidhe', ca 1911, ay isang pinta ni John Duncan, isang Scottish symbolist na pintor. Bisitahin ang orihinal sa Dundee Art Galleries, Edinburgh - Scotland."
+      },
+      "B06": {
+        "QuestName": "Vercingetorix",
+        "desc": "'Vercingetorix sa Harap ni Caesar', ca 1899, ay isang pinta ni Lionel Royer, isang French historical na pintor. Bisitahin ang orihinal sa Musee Crozatier, Auvergne - France."
+      },
+      "C07": {
+        "QuestName": "Tuath Danann",
+        "desc": "'Ang Alitan nina Oberon at Titania', ca 1849, ay isang pinta ni Joseph Noel Paton, isang Scottish historical na pintor. Bisitahin ang orihinal sa National Gallery, Edinburgh - Scotland."
+      },
+      "whitelist": {
+        "QuestName": "Whitelist",
+        "desc": "An NFT whitelist is a selected collection of crypto wallet addresses with early access to BeGODS ecosystem. This NFT allows the owner to buy 30USD of our BGODS Token, after it is listed."
+      }
+    },
+    "egyptian": {
+      "A01": {
+        "QuestName": "Tagapagsalita ng mga Ibon",
+        "desc": "'Ang Nagbebenta ng Kalapati ng Ehipto', ca 1864, ay isang pinta ni Eugene Pierre Francois Giraud, isang French na pintor. Bisitahin ang orihinal sa Museo de Bellas Artes, Valencia - Spain."
+      },
+      "A02": {
+        "QuestName": "Alindog ni Hathor",
+        "desc": "'Ang Harpist', ca 1890, ay isang pinta ni Arthur Drummond, isang British na pintor. Bisitahin ang orihinal sa Sotheby’s, London - England."
+      },
+      "A03": {
+        "QuestName": "Himala ng Nile",
+        "desc": "'Ang Pagkakatagpo ng Moises', ca 1904, ay isang pinta ni Lawrence Alma-Tadema, isang Dutch Victorian na pintor. Bisitahin ang orihinal sa Sotheby’s, London - England."
+      },
+      "A04": {
+        "QuestName": "Prosisyon ni Isis",
+        "desc": "'Ang Paglipad patungo sa Ehipto', ca 1883, ay isang pinta ni Edwin Longsden Long, isang British biblical na pintor. Bisitahin ang orihinal sa Russell-Cotes Museum, Bournemouth - England."
+      },
+      "A05": {
+        "QuestName": "Pabango ni Shezmus",
+        "desc": "'Si Cleopatra na Tinutest ang mga Lason sa mga Nahatulang Bilanggo', ca 1887, ay isang pinta ni Alexandre Cabanel, isang French classical na pintor. Bisitahin ang orihinal sa Royal Museum, Antwerp - Belgium."
+      },
+      "A06": {
+        "QuestName": "Libingan ni Cleopatra",
+        "desc": "'Ang Kamatayan ni Cleopatra', ca 1890, ay isang pinta ni John Collier, isang British Pre-Raphaelite na pintor. Bisitahin ang orihinal sa Art Gallery, Oldham - England."
+      },
+      "B01": {
+        "QuestName": "Dugo ni Sekhmet I",
+        "desc": "'Israel sa Ehipto', ca 1867, ay isang pinta ni Edward Poynter, isang British historical na pintor. Bisitahin ang orihinal sa Guildhall Art Gallery, London - England."
+      },
+      "B02": {
+        "QuestName": "Kulto ni Bastet",
+        "desc": "'Ang mga Diyos at Kanilang Mga Gumagawa', ca 1878, ay isang pinta ni Edwin Long, isang English biblical na pintor. Bisitahin ang orihinal sa Towneley Hall Art Gallery, Burnley - England."
+      },
+      "B03": {
+        "QuestName": "Dugo ni Sekhmet II",
+        "desc": "'Israel sa Ehipto', ca 1867, ay isang pinta ni Edward Poynter, isang British historical na pintor. Bisitahin ang orihinal sa Guildhall Art Gallery, London - England."
+      },
+      "B04": {
+        "QuestName": "Kulto ni Maahes",
+        "desc": "'Ang Paglilibing ng isang Egyptian Cat', ca 1886, ay isang pinta ni John Weguelin, isang British classical na pintor. Bisitahin ang orihinal sa Auckland Art Gallery, Auckland - New Zealand."
+      },
+      "B05": {
+        "QuestName": "Panaginip ng Paraon",
+        "desc": "'Si Joseph na Nagsasalin ng Panaginip ng Paraon', ca 1894, ay isang pinta ni Reginald Arthur, isang British historical na pintor. Bisitahin ang orihinal sa Sotheby’s, London - England."
+      },
+      "B06": {
+        "QuestName": "Banta ng Dayuhan",
+        "desc": "'Ang Pagkakatagpo nina Antony at Cleopatra', ca 1885, ay isang pinta ni Lawrence Alma-Tadema, isang Dutch Victorian na pintor. Bisitahin ang orihinal sa Sotheby’s, London - England."
+      },
+      "C08": {
+        "QuestName": "Kulto ng Bull Apis",
+        "desc": "'Ang Prosisyon ng Bull Apis', ca 1879, ay isang pinta ni Frederick Arthur Bridgman, isang American orientalist na pintor. Bisitahin ang orihinal sa Private Collection, USA."
+      },
+      "whitelist": {
+        "QuestName": "Whitelist",
+        "desc": "An NFT whitelist is a selected collection of crypto wallet addresses with early access to BeGODS ecosystem. This NFT allows the owner to buy 30USD of our BGODS Token, after it is listed."
+      }
+    },
+    "greek": {
+      "A01": {
+        "QuestName": "Narcyssus at Echo",
+        "desc": "'Echo at Narcissus', ca 1903, ay isang pinta ni John William Waterhouse, isang British classical na pintor. Bisitahin ang orihinal sa Walker Art Gallery, Liverpool - England."
+      },
+      "A02": {
+        "QuestName": "Mga Nimpa ng Tubig",
+        "desc": "'Hylas at ang mga Nimpa ng Tubig', ca 1909, ay isang pinta ni Henrietta Rae, isang British classical na pintor. Bisitahin ang orihinal sa Walker Art Gallery, Liverpool - England."
+      },
+      "A03": {
+        "QuestName": "Galit ni Achilles",
+        "desc": "'Galit ni Achilles', ca 1737, ay isang pinta ni Charles-Antoine Coypel, isang French classical na pintor. Bisitahin ang orihinal sa Walker Art Gallery, Saint Petersburg - Russia."
+      },
+      "A04": {
+        "QuestName": "Pagbagsak ni Phaeton",
+        "desc": "'Ang Pagbagsak ni Phaeton', ca 1737, ay isang pinta ni Peter Paul Rubens, isang Flemish baroque na pintor. Bisitahin ang orihinal sa National Gallery of Art, Washington D.C. - United States."
+      },
+      "A05": {
+        "QuestName": "Icarus at Daedalus",
+        "desc": "'Ang Araw o ang Pagbagsak ni Icarus', ca 1819, ay isang pinta ni Merry Joseph Blondel, isang French neoclassical na pintor. Bisitahin ang orihinal sa Louvre Museum, Paris - France."
+      },
+      "A06": {
+        "QuestName": "Regalo ni Prometheus",
+        "desc": "'Prometheus', ca 1620, ay isang pinta ni Theodoor Rombouts, isang Flemish caravaggesque na pintor. Bisitahin ang orihinal sa Royal Museums of Fine Arts, Antwerp - Belgium."
+      },
+      "B01": {
+        "QuestName": "Oracle ng Delphi",
+        "desc": "'Pythia: Oracle at Mataas na Pari ng Delphi', ca 1880, ay isang pinta ni Camillo Miola, isang Italian historical na pintor. Bisitahin ang orihinal sa J. Paul Getty Center, Los Angeles - USA."
+      },
+      "B02": {
+        "QuestName": "Kapalaran ni Hephaestus",
+        "desc": "'Ang Huling Araw ng Pompeii', ca 1833, ay isang pinta ni Karl Pavlovich Bryullov, isang Russian neoclassical na pintor. Bisitahin ang orihinal sa State Russian Museum, Saint Petersburg - Russia."
+      },
+      "B03": {
+        "QuestName": "Gintong Balahibo",
+        "desc": "'Ang Gintong Balahibo', ca 1904, ay isang pinta ni Herbert James Draper, isang British neoclassical na pintor. Bisitahin ang orihinal sa Cartwright Hall, Bradford - England."
+      },
+      "B04": {
+        "QuestName": "Sirena ni Odysseus",
+        "desc": "'Ulysses at ang mga Sirena', ca 1909, ay isang pinta ni Herbert James Draper, isang British neoclassical na pintor. Bisitahin ang orihinal sa Ferens Art Gallery, Hull - England."
+      },
+      "B05": {
+        "QuestName": "Pag-akyat ng Imperyo",
+        "desc": "'Ang Pagkakumpleto ng Kurso ng Imperyo', ca 1836, ay isang pinta ni Cole Thomas, isang American landscape na pintor. Bisitahin ang orihinal sa Historical Society, New York - USA."
+      },
+      "B06": {
+        "QuestName": "Pagbagsak ng Imperyo",
+        "desc": "'Ang Kurso ng Imperyo: Pagkawasak', ca 1836, ay isang pinta ni Cole Thomas, isang American landscape na pintor. Bisitahin ang orihinal sa Historical Society, New York - USA."
+      },
+      "C06": {
+        "QuestName": "Titanomachia",
+        "desc": "'Olympus: Ang Pagbagsak ng mga Higante', ca 1764, ay isang pinta ni Francisco Bayeu y Subías, isang Spanish neoclassical na pintor. Bisitahin ang orihinal sa Museo del Prado, Madrid - Spain."
+      },
+      "whitelist": {
+        "QuestName": "Whitelist",
+        "desc": "An NFT whitelist is a selected collection of crypto wallet addresses with early access to BeGODS ecosystem. This NFT allows the owner to buy 30USD of our BGODS Token, after it is listed."
+      }
+    },
+    "norse": {
+      "A01": {
+        "QuestName": "Isang Bagong Bukang Liwayway",
+        "desc": "'Dagr (Araw)', ca 1874, ay isang pinta ni Peter Nicolai Arbo, isang Norwegian historical na pintor. Bisitahin ang orihinal sa National Museum, Stockholm - Sweden."
+      },
+      "A02": {
+        "QuestName": "Takip-Silim",
+        "desc": "'Nott (Gabi)', ca 1887, ay isang pinta ni Peter Nicolai Arbo, isang Norwegian historical na pintor. Bisitahin ang orihinal sa National Museum, Stockholm - Sweden."
+      },
+      "A03": {
+        "QuestName": "Kulungan ng Valkyrie",
+        "desc": "'Ang Vigil ng Valkyrie', ca 1915, ay isang pinta ni Edward Robert Hughes, isang British watercolor na pintor. Bisitahin ang orihinal sa Museum and Art Gallery, Birmingham - England."
+      },
+      "A04": {
+        "QuestName": "Hipo ng Valkyries",
+        "desc": "'Kamatayan ni Hervor', ca 1892, ay isang pinta ni Peter Nicolai Arbo, isang Norwegian historical na pintor. Bisitahin ang orihinal sa National Museum, Stockholm - Sweden."
+      },
+      "A05": {
+        "QuestName": "Vinland (America)",
+        "desc": "'Leiv Eirikson Natutuklas ang America', ca 1893, ay isang pinta ni Christian Krohg, isang Norwegian naturalist na pintor. Bisitahin ang orihinal sa National Museum, Oslo - Norway."
+      },
+      "A06": {
+        "QuestName": "Pagkatuklas ng Iceland",
+        "desc": "'Ang Norseman na Lumapag sa Iceland', ca 1877, ay isang pinta ni Oscar Arnold Wergeland, isang Norwegian historical na pintor. Bisitahin ang orihinal sa National Museum, Oslo - Norway."
+      },
+      "B01": {
+        "QuestName": "Pagsalakay ng Vikings",
+        "desc": "'Isang Pagsalakay ng Viking', ca 1901, ay isang pinta ni Ferdinand Leek, isang German modernist na pintor. Bisitahin ang orihinal sa Schloss Art Gallery, Ahlden - Germany."
+      },
+      "B02": {
+        "QuestName": "Libing ng Vikings",
+        "desc": "'Ang Libing ng isang Viking', ca 1893, ay isang pinta ni Frank Bernard Dicksee, isang British Victorian na pintor. Bisitahin ang orihinal sa Art Gallery, Manchester - England."
+      },
+      "B03": {
+        "QuestName": "Ang Hudyat ng Hari",
+        "desc": "'Hakon ang Mabuti', ca 1876, ay isang pinta ni Peter Nicolai Arbo, isang Norwegian historical na pintor. Bisitahin ang orihinal sa National Museum, Stockholm - Sweden."
+      },
+      "B04": {
+        "QuestName": "Labanan ng Svold I",
+        "desc": "'Labanan ng Svolder', ca 1883, ay isang pinta ni Peter Otto Sinding, isang Norwegian historical na pintor. Bisitahin ang orihinal sa Private Collection, Stockholm - Sweden."
+      },
+      "B05": {
+        "QuestName": "Vikings laban sa Celts",
+        "desc": "'Labanan ng Stamford Bridge', ca 1870, ay isang pinta ni Peter Nicolai Arbo, isang Norwegian historical na pintor. Bisitahin ang orihinal sa Nordnorsk Kunstmuseum, Tromso - Norway."
+      },
+      "B06": {
+        "QuestName": "Labanan ng Svold II",
+        "desc": "'Labanan ng Svolder', ca 1883, ay isang pinta ng Norwegian historical na pintor na si Peter Otto Sinding. Bisitahin ang orihinal sa Private Collection, Stockholm - Sweden."
+      },
+      "C07": {
+        "QuestName": "Asgardsreien",
+        "desc": "'Ang Wild Hunt', ca 1856, ay isang pinta ni Johann Wilhelm Cordes, isang German landscape na pintor. Bisitahin ang orihinal sa Behnhaus, Lübeck - Germany."
+      },
+      "whitelist": {
+        "QuestName": "Whitelist",
+        "desc": "An NFT whitelist is a selected collection of crypto wallet addresses with early access to BeGODS ecosystem. This NFT allows the owner to buy 30USD of our BGODS Token, after it is listed."
+      }
+    }
+  },
+  "toasts": {
+    "default": {
+      "error": {
+        "title": "Hindi Makakonekta sa Server",
+        "desc": "May nangyaring hindi tama. Pakisubukang i-refresh o maghintay ng ilang sandali at subukang muli."
+      }
+    },
+    "Convert": {
+      "success": {
+        "title": "Matagumpay na Naconvert ang mga Orbs!",
+        "desc": "Magaling! Ipagpatuloy mo lamang ang momentum!"
+      },
+      "error": {
+        "title": "Hindi Sapat ang mga Orbs",
+        "desc": "Kailangan mo pa ng mas maraming Orbs para makumpleto ang transaksyong ito."
+      }
+    },
+    "Booster_AutomataClaim": {
+      "success": {
+        "title": "Matagumpay na Na-activate ang Booster!",
+        "desc": "Ang iyong automata ay aktibo na at tumatakbo!"
+      }
+    },
+    "Booster_ShardsClaim": {
+      "success": {
+        "title": "Matagumpay na Na-activate ang Booster!",
+        "desc": "Nakuha ang Shards Booster! Ngayon, i-multiply ang iyong tapping power."
+      }
+    },
+    "Booster_InsufficientOrbs": {
+      "error": {
+        "title": "Hindi Matagumpay ang Pagkuha ng Booster",
+        "desc": "Hindi sapat ang MultiColor Orbs upang i-activate ang booster."
+      }
+    },
+    "Booster_AutomataAlreadyClaim": {
+      "error": {
+        "title": "Hindi Matagumpay ang Pagkuha ng Booster",
+        "desc": "Nabigong i-activate ang booster. Pakisubukang kunin ang automata mamaya."
+      }
+    },
+    "Booster_ShardsAlreadyClaim": {
+      "error": {
+        "title": "Hindi Matagumpay ang Pagkuha ng Booster",
+        "desc": "Nabigong i-activate ang booster. Pakisubukang i-multiply ang iyong shards tapping power mamaya."
+      }
+    },
+    "Booster_Lost_Not_Available": {
+      "error": {
+        "title": "Walang Magagamit na Misyon",
+        "desc": "Bumalik Bukas!"
+      }
+    }
+  },
+  "Quest_complete": {
+    "success": {
+      "title": "Pagbati! Natapos mo ang Quest!",
+      "desc": "Binabati kita! Natapos mo ang iyong quest."
+    },
+    "error": {
+      "title": "Nabigong Matapos ang Quest",
+      "desc": "Nagkaroon ng problema sa pagtatapos ng quest. Siguraduhing kumpleto ang quest at subukang muli mamaya."
+    }
+  },
+  "Booster_Claim": {
+    "success": {
+      "title": "Nakamit ang Power Boost!",
+      "desc": "Naka-setup ka na para sa mga epikong tagumpay! Pumunta at sakupin ito!"
+    },
+    "error": {
+      "title": "Nabigong Kunin ang Booster!",
+      "desc": "Oops! May nangyaring mali habang kinukuha ang iyong booster. Pakisubukang muli!"
+    }
+  },
+  "Conversion_Multiplier": {
+    "success": {
+      "title": "Tugma ang Himig!",
+      "desc": "Nakuha mo! Tama ang susi, at naipatak ang multiplier!"
+    },
+    "error": {
+      "title": "Hindi Tugma ang Himig",
+      "desc": "Ang susi na iyong ipinasok ay mali. Sa kasamaang palad, walang naipatang multiplier."
+    }
+  },
+  "Tasks": {
+    "success": {
+      "title": "Matagumpay na Nakumpleto ang Gawain!",
+      "desc": "Magaling! Nakuha mo ang 3 MultiOrbs."
+    },
+    "error": {
+      "title": "Hindi Kumpletong Gawain",
+      "desc": "Hindi natapos ang gawain. Pakisubukang muli upang makuha ang iyong mga gantimpala."
+    }
+  },
+  "Quest_claim": {
+    "success": {
+      "title": "Matagumpay na Nakamit ang Quest!",
+      "desc": "Matagumpay mong nakuha ang misyon. Iagpatuloy mo lamang at upang makamit ang higit pang gantimpala!"
+    },
+    "error": {
+      "title": "Hindi Sapat ang Bato para sa Pagkuha ng Misyon",
+      "desc": "Wala kang sapat na bato upang makuha ang misyon na ito. Mangyaring mangolekta ng higit pa at subukang muli."
+    }
+  },
+  "Quest_claim_InsufficientOrbs": {
+    "error": {
+      "title": "Hindi Sapat ang Orbs para sa Pagkuha ng Quest",
+      "desc": "Wala kang sapat na Orbs upang makuha ang Quest na ito. Mangyaring mangolekta ng higit pa at subukang muli."
+    }
+  },
+  "Quest_claim_AlreadyClaimed": {
+    "error": {
+      "title": "Nakuha mo na ang Quest na ito",
+      "desc": "Nakuha na ang quest na ito. Tingnan ang iyong mga aktibong quests para sa mga detalye."
+    }
+  },
+  "Quest_orb_claim": {
+    "success": {
+      "title": "Matagumpay na Nakuha ang mga Orbs!",
+      "desc": "Matagumpay mong nakuha ang iyong mga Orbs. I-enjoy mo ang mga pinaghirapang premyo at magpatuloy sa pag-unlad!"
+    },
+    "error": {
+      "title": "Hindi Matagumpay ang Pagkuha ng Orbs",
+      "desc": "Nagkaroon ng problema sa pagkuha ng iyong mga Orbs. Pakisubukang muli mamaya."
+    }
+  },
+  "Quest_share": {
+    "success": {
+      "title": "Matagumpay na Nai-share ang Quest!",
+      "desc": "Binabati kita! Matagumpay mong nai-share ang iyong quest at kumita ng dagdag na orb."
+    },
+    "error": {
+      "title": "Nabigong I-share ang Misyon",
+      "desc": "Nagkaroon ng problema sa pag-share ng iyong misyon. Pakisubukang muli mamaya."
+    }
+  },
+  "ReferralCopy": {
+    "success": {
+      "title": "Nakopya na ang Referral Link!",
+      "desc": "Ang iyong referral link ay nakopya na sa clipboard. I-share ito sa iyong mga kaibigan!"
+    }
+  },
+  "TonConnect": {
+    "success": {
+      "title": "Matagumpay na Naikonekta ang Wallet!",
+      "desc": "Ang iyong TON wallet ay naikonekta na."
+    },
+    "error": {
+      "title": "Nabigong Kumonekta ang Wallet",
+      "desc": "Nagkaroon ng problema sa pagkonekta sa iyong TON wallet. Pakisubukang muli mamaya."
+    }
+  },
+  "InputValidate": {
+    "success": {
+      "title": "OTP Ipinadala!",
+      "desc": "Matagumpay na naipadala ang OTP."
+    },
+    "error": {
+      "title": "Maling Input!",
+      "desc": "Mangyaring punan ng tama ang lahat ng kinakailangang mga field."
+    }
+  },
+  "OnboardSuccess": {
+    "success": {
+      "title": "Na-verify ang OTP!",
+      "desc": "Salamat sa pagkonekta sa FrogDog Games!"
+    },
+    "error": {
+      "title": "Hindi Tamang OTP!",
+      "desc": "Pakipasok ang tamang OTP."
+    }
+  },
+  "Voucher": {
+    "success": {
+      "title": "Pagbati! Naharap na ang Regalo",
+      "desc": "Matagumpay mong nakuha ang iyong voucher."
+  },
+    "error": {
+      "title": "Congratulations! Gift Unlocked",
+      "desc": "Your voucher is successfully claimed."
+    }
+  }
+}
