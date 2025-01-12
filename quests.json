@@ -50,7 +50,7 @@
     "status": "Active",
     "requiredOrbs": {
       "Norse": 2,
-      "Greek": 2,
+      "Greek": 1,
       "Celtic": 1,
       "Egyptian": 1
     }
@@ -90,7 +90,7 @@
     "status": "Active",
     "requiredOrbs": {
       "Greek": 2,
-      "MultiOrb": 1,
+      "MultiOrb": 2,
       "Egyptian": 2
     }
   },
@@ -182,7 +182,7 @@
     "requiredOrbs": {
       "Egyptian": 3,
       "Greek": 1,
-      "MultiOrb": 2
+      "MultiOrb": 1
     }
   },
   "01-01-25": {
@@ -324,8 +324,7 @@
     "status": "Active",
     "requiredOrbs": {
       "Celtic": 3,
-      "Norse": 1,
-      "MultiOrb": 1
+      "Norse": 2
     }
   },
   "12-01-25": {
@@ -337,9 +336,9 @@
     "status": "Active",
     "requiredOrbs": {
       "Egyptian": 3,
-      "Norse": 2,
-      "Greek": 2,
-      "Celtic": 2
+      "Norse": 1,
+      "Greek": 1,
+      "Celtic": 1
     }
   },
   "13-01-25": {
@@ -376,9 +375,8 @@
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
-      "Celtic": 2,
-      "MultiOrb": 2,
-      "Norse": 2
+      "Celtic": 3,
+      "Egyptian": 2
     }
   },
   "16-01-25": {
@@ -390,8 +388,8 @@
     "status": "Active",
     "requiredOrbs": {
       "Egyptian": 3,
-      "Celtic": 2,
-      "MultiOrb": 2
+      "Celtic": 1,
+      "MultiOrb": 1
     }
   },
   "17-01-25": {
