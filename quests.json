@@ -470,7 +470,7 @@
     "questName": "Leanan Sidhe",
     "description": "s1",
     "type": "B05",
-    "link": ["1852621906991583499", "1852621906991583499"],
+    "link": ["1852621906991583499", "1873300439455735878"],
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
@@ -483,7 +483,7 @@
     "questName": "Maahes' Cult",
     "description": "s1",
     "type": "B05",
-    "link": ["1852984295456927827", "1852984295456927827"],
+    "link": ["1852984295456927827", "1873307990603784478"],
     "mythology": "Egyptian",
     "status": "Active",
     "requiredOrbs": {
@@ -496,7 +496,7 @@
     "questName": "Odysseus' Sirens",
     "description": "s1",
     "type": "B05",
-    "link": ["1853346501419733150", "1853346501419733150"],
+    "link": ["1853346501419733150", "1873315536374841500"],
     "mythology": "Greek",
     "status": "Active",
     "requiredOrbs": {
@@ -510,7 +510,7 @@
     "questName": "SVOLD'S BATTLE I",
     "description": "s1",
     "type": "B05",
-    "link": ["1853708961393893395", "1853708961393893395"],
+    "link": ["1853708961393893395", "1873323094560891127"],
     "mythology": "Norse",
     "status": "Active",
     "requiredOrbs": {
@@ -523,7 +523,7 @@
     "questName": "Sidhe Riders",
     "description": "s1",
     "type": "A06",
-    "link": ["1854071352413560874", "1854071352413560874"],
+    "link": ["1854071352413560874", "1873662827656872137"],
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
@@ -535,7 +535,7 @@
     "questName": "Pharao's Dream II",
     "description": "s1",
     "type": "A06",
-    "link": ["1854433732234551558", "1854433732234551558"],
+    "link": ["1854433732234551558", "1873670379450909168"],
     "mythology": "Egyptian",
     "status": "Active",
     "requiredOrbs": {
@@ -547,7 +547,7 @@
     "questName": "EMPIRE'S RISE",
     "description": "s1",
     "type": "A06",
-    "link": ["1854796128035778744", "1854796128035778744"],
+    "link": ["1854796128035778744", "1873677924420686150"],
     "mythology": "Greek",
     "status": "Active",
     "requiredOrbs": {
@@ -559,7 +559,7 @@
     "questName": "Vikings vs Celts",
     "description": "s1",
     "type": "A06",
-    "link": ["1855158512789193057", "1855158512789193057"],
+    "link": ["1855158512789193057", "1873685484167147637"],
     "mythology": "Norse",
     "status": "Active",
     "requiredOrbs": {
@@ -571,7 +571,7 @@
     "questName": "Vercingetorix",
     "description": "s1",
     "type": "A06",
-    "link": ["1855520903242940586", "1855520903242940586"],
+    "link": ["1855520903242940586", "1874025218689163558"],
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
@@ -585,7 +585,7 @@
     "questName": "Foreign Threat",
     "description": "s1",
     "type": "B06",
-    "link": ["1855883294161657951", "1855883294161657951"],
+    "link": ["1855883294161657951", "1874032771481403745"],
     "mythology": "Egyptian",
     "status": "Active",
     "requiredOrbs": {
@@ -599,7 +599,7 @@
     "questName": "EMPIRE'S FALL",
     "description": "s1",
     "type": "B06",
-    "link": ["1856245721566945632", "1856245721566945632"],
+    "link": ["1856245721566945632", "1874040317260746831"],
     "mythology": "Greek",
     "status": "Active",
     "requiredOrbs": {
@@ -612,7 +612,7 @@
     "questName": "SVOLD'S BATTLE II",
     "description": "s1",
     "type": "B06",
-    "link": ["1856608027249385565", "1856608027249385565"],
+    "link": ["1856608027249385565", "1874047869402964437"],
     "mythology": "Norse",
     "status": "Active",
     "requiredOrbs": {
@@ -625,7 +625,7 @@
     "questName": "Tuath Danann I",
     "description": "s1",
     "type": "C01",
-    "link": ["1856970395234029855", "1856970395234029855"],
+    "link": ["1856970395234029855", "1874387600980459841"],
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
@@ -637,7 +637,7 @@
     "questName": "Bull Apis Cult I",
     "description": "s1",
     "type": "C01",
-    "link": ["1857332931875741841", "1857332931875741841"],
+    "link": ["1857332931875741841", "1874395152258674921"],
     "mythology": "Egyptian",
     "status": "Active",
     "requiredOrbs": {
@@ -649,7 +649,7 @@
     "questName": "Titanomachia I",
     "description": "s1",
     "type": "C01",
-    "link": ["1857695266733723816", "1857695266733723816"],
+    "link": ["1857695266733723816", "1874402699585769922"],
     "mythology": "Greek",
     "status": "Active",
     "requiredOrbs": {
@@ -661,7 +661,7 @@
     "questName": "Idun's Apples I",
     "description": "s1",
     "type": "C01",
-    "link": ["1857695265144156359", "1857695265144156359"],
+    "link": ["1866440333304778854", "1874410256610087335"],
     "mythology": "Norse",
     "status": "Active",
     "requiredOrbs": {
@@ -673,7 +673,7 @@
     "questName": "TIR NA NOG I",
     "description": "s1",
     "type": "C02",
-    "link": ["1866438274211831920", "1866438274211831920"],
+    "link": ["1866438274211831920", "1874749994441277807"],
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
@@ -686,7 +686,7 @@
     "questName": "Sekhmet's Blood I",
     "description": "s1",
     "type": "C02",
-    "link": ["1866440152123355527", "1866440152123355527"],
+    "link": ["1851534599643451760", "1874757547388760456"],
     "mythology": "Egyptian",
     "status": "Active",
     "requiredOrbs": {
@@ -699,7 +699,7 @@
     "questName": "PHAETON'S FALL I",
     "description": "s1",
     "type": "C02",
-    "link": ["1856970395234029855", "1856970395234029855"],
+    "link": ["1844996516538110192", "1874765089745637573"],
     "mythology": "Greek",
     "status": "Active",
     "requiredOrbs": {
@@ -712,7 +712,7 @@
     "questName": "Ragnarok I",
     "description": "s1",
     "type": "C02",
-    "link": ["1856970395234029855", "1856970395234029855"],
+    "link": ["1866441443981619685", "1874772646283411928"],
     "mythology": "Norse",
     "status": "Active",
     "requiredOrbs": {
@@ -725,7 +725,7 @@
     "questName": "Tuath Danann II",
     "description": "s1",
     "type": "C03",
-    "link": "",
+    "link": ["1856970395234029855", "1875112377705738473"],
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
@@ -737,7 +737,7 @@
     "questName": "Bull Apis Cult II",
     "description": "s1",
     "type": "C03",
-    "link": "",
+    "link": ["1857332931875741841", "1875119932557418785"],
     "mythology": "Egyptian",
     "status": "Active",
     "requiredOrbs": {
@@ -749,7 +749,7 @@
     "questName": "Titanomachia II",
     "description": "s1",
     "type": "C03",
-    "link": "",
+    "link": ["1857695266733723816", "1875127478529699963"],
     "mythology": "Greek",
     "status": "Active",
     "requiredOrbs": {
@@ -761,7 +761,7 @@
     "questName": "Idun's Apples II",
     "description": "s1",
     "type": "C03",
-    "link": "",
+    "link": ["1866440333304778854", "1875135025647145225"],
     "mythology": "Norse",
     "status": "Active",
     "requiredOrbs": {
@@ -773,7 +773,7 @@
     "questName": "TIR NA NOG II",
     "description": "s1",
     "type": "C04",
-    "link": "",
+    "link": ["1866438274211831920", "1875474770138988775"],
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
@@ -786,7 +786,7 @@
     "questName": "Sekhmet's Blood II",
     "description": "s1",
     "type": "C04",
-    "link": "",
+    "link": ["1851534599643451760", "1875482337103765980"],
     "mythology": "Egyptian",
     "status": "Active",
     "requiredOrbs": {
@@ -799,7 +799,7 @@
     "questName": "PHAETON'S FALL II",
     "description": "s1",
     "type": "C04",
-    "link": "",
+    "link": ["1844996516538110192", "1875489869394219092"],
     "mythology": "Greek",
     "status": "Active",
     "requiredOrbs": {
@@ -812,7 +812,7 @@
     "questName": "Ragnarok II",
     "description": "s1",
     "type": "C04",
-    "link": "",
+    "link": ["1866441443981619685", "1875497419690926286"],
     "mythology": "Norse",
     "status": "Active",
     "requiredOrbs": {
@@ -825,7 +825,7 @@
     "questName": "Tuath Danann III",
     "description": "s1",
     "type": "C05",
-    "link": "",
+    "link": ["1856970395234029855", "1875837156729487545"],
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
@@ -837,7 +837,7 @@
     "questName": "Bull Apis Cult III",
     "description": "s1",
     "type": "C05",
-    "link": "",
+    "link": ["1857332931875741841", "1875844710545166612"],
     "mythology": "Egyptian",
     "status": "Active",
     "requiredOrbs": {
@@ -849,7 +849,7 @@
     "questName": "Titanomachia III",
     "description": "s1",
     "type": "C05",
-    "link": "",
+    "link": ["1857695266733723816", "1875852262997635073"],
     "mythology": "Greek",
     "status": "Active",
     "requiredOrbs": {
@@ -861,7 +861,7 @@
     "questName": "Idun's Apples III",
     "description": "s1",
     "type": "C05",
-    "link": "",
+    "link": ["1866440333304778854", "1875859800543711368"],
     "mythology": "Norse",
     "status": "Active",
     "requiredOrbs": {
@@ -873,7 +873,7 @@
     "questName": "TIR NA NOG III",
     "description": "s1",
     "type": "C06",
-    "link": "",
+    "link": ["1866438274211831920", "1876199546226659538"],
     "mythology": "Celtic",
     "status": "Active",
     "requiredOrbs": {
@@ -886,7 +886,7 @@
     "questName": "Sekhmet's Blood III",
     "description": "s1",
     "type": "C06",
-    "link": "",
+    "link": ["1851534599643451760", "1876207098050101456"],
     "mythology": "Egyptian",
     "status": "Active",
     "requiredOrbs": {
@@ -899,7 +899,7 @@
     "questName": "PHAETON'S FALL III",
     "description": "s1",
     "type": "C06",
-    "link": "",
+    "link": ["1844996516538110192", "1876214642818576470"],
     "mythology": "Greek",
     "status": "Active",
     "requiredOrbs": {
@@ -912,7 +912,7 @@
     "questName": "Ragnarok II",
     "description": "s1",
     "type": "C06",
-    "link": "",
+    "link": ["1866441443981619685", "1876222192314142946"],
     "mythology": "Norse",
     "status": "Active",
     "requiredOrbs": {
